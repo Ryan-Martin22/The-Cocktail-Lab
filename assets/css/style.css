@@ -7,10 +7,13 @@
     border: none;
 }
 
+
+
 body {
     font-family: lato, sans-serif;
     font-weight: 300;
     color: #383838;
+    background-color: rgb(250, 238, 223);
 }  
 
 /* heading and logo */
@@ -24,6 +27,7 @@ body {
  #company {
     float:left;
     size: 280%;
+    margin-left: 35px;
  }
 
 
@@ -32,16 +36,17 @@ body {
  #navbar {
     font-size: 110%;
     letter-spacing: 4px;
+    font-weight: 500;
  } 
 
  #company , #navbar {
-      line-height: 75px;
+      line-height: 80px;
 }
 
  #navbar li {
     float: right;
     list-style-type: none;
-    margin-right: 30px;
+    margin-right: 40px;
  }
 
  #navbar a {
@@ -50,45 +55,34 @@ body {
  }
 
 #navbar a:hover {
-    border-bottom: 1px solid #383838;
+    border-bottom: 2px solid #383838;
 
 } 
 
 
 .active {
-    border-bottom: 1px solid #383838;
+    border-bottom: 2px solid #383838;
 } 
 
 /* hero image */
 
 
 #fashioned-outer {
-   height: 600px;
+   height: 650px;
    width: 100%;
    overflow: hidden;
 }
 
 #old-fashioned {
-   height: 600px;
+   height: 650px;
    width: 100%;
    background: url('../images/old-fashioned.avif') no-repeat center center;
    background-size: cover;
-
-   animation-name: drink-zoom;
-   animation-duration: 5s;
-   animation-fill-mode: forwards;
-}  
-
-/* hero image animation */
-
-
-
-@keyframes drink-zoom {
-   from { 
-        transform: scale(1);
-   }
-
-   to {
-      transform: scale(1.1);
-   }
+   
 }
+
+#quote {
+   float: right;
+}
+
+  
