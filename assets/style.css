@@ -21,3 +21,39 @@ body {
     color: #282828;
  }
 
+ #company {
+    float:left;
+    size: 280%;
+ }
+
+
+/* navigation bar */
+
+ #navbar {
+    font-size: 110%;
+    letter-spacing: 4px;
+ } 
+
+ #company , #navbar {
+      line-height: 75px;
+}
+
+ #navbar li {
+    float: right;
+    list-style-type: none;
+    margin-right: 30px;
+ }
+
+ #navbar a {
+    text-decoration: none;
+    color: inherit;
+ }
+
+#navbar a:hover {
+    border-bottom: 1px solid #383838;
+
+} 
+
+.active {
+    border-bottom: 1px solid #383838;
+}
