@@ -85,4 +85,33 @@ body {
    float: right;
 }
 
-  
+.container-who {
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   padding: 20px 0 20px 0;
+}
+
+#what-is {
+   border-bottom: 2px solid #383838;
+   font-weight: 800;
+
+}
+
+.container {
+   display: block;
+   width: 100%;
+   padding-top: 20px;
+}
+
+.row {
+   display: flex;
+   flex-wrap: wrap;
+}
+
+.col-third {
+   display: flex;
+   width: 33%; 
+   align-items: center;
+   justify-content: center;
+}
