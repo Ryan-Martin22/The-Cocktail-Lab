@@ -83,43 +83,108 @@ body {
 
 /* main body of information */
 
-.container-who {
-   display: flex;
-   align-items: center;
-   justify-content: center;
-   padding: 20px 0 20px 0;
-}
 
-#what-is {
-   border-bottom: 2px solid #383838;
-   font-weight: 800;
+
+#cocktail-lab {
+   height: 500px;
+   
+
 
 }
 
-.container {
-   display: block;
+#left-about {
+   padding-top: 30px;
+   width: 33%;
+   float: left;
+   
+}
+
+#right-about {
+   padding-top: 30px;
+   width: 33%;
+   float: right;
+}
+
+#center-about {
+padding-top: 30px;
+width: 33%;
+margin: 0 auto; 
+
+}
+
+hr {
+   border-top: 1px solid #3a3a3a;
    width: 100%;
-   padding-top: 20px;
+   margin: 5px 0;
 }
 
-.row {
-   display: flex;
-   flex-wrap: wrap;
+.left-about-heading {
+   width: 60%;
+   float: right;
+   line-height: 20px;
+   clear: both;
+   margin-bottom: 50px;
 }
 
-.col-third {
-   display: flex;
-   width: 33%; 
-   align-items: center;
-   justify-content: center;
+.right-about-heading {
+   width: 60%;
+   float: left;
+   line-height: 20px;
+   clear: both;
+   margin-bottom: 50px;
 }
 
-#info {
-   border-bottom: 2px solid #383838;
+.right-about-heading h2 {
+   text-align: right;
+
 }
 
-.about-us-info {
-   padding: 1rem;
-   font-size: 1.10 nrem;
-   align-self: center
+.right-about-heading p {
+   text-align: right;
+}
+
+#welcome {
+   text-align: center;
+   margin: 20px 0;
+   font-size: 280%; 
+
+}
+
+#circle-container {
+   width: 300px;
+   height: 300px;
+   padding: 30px;
+   border-style: solid;
+   border-color: #ccc;
+   border-width: 1px;
+   border-radius: 50%;
+   margin: 0 auto;
+}
+
+#circle-cover-bg {
+   background: url('../images/drinks.jpeg') ;
+   height: 100%;
+   border-radius: 50%;
+   
+} 
+
+/* footer */
+
+footer {
+   height: 150px;
+}
+
+.social-networks {
+text-align: center;
+}
+
+.social-networks li {
+display: inline;
+}
+
+.social-networks i {
+font-size: 160%;
+max-width: 1%;
+padding: 5%;
+color: #3a3a3a; 
 }
