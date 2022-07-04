@@ -81,9 +81,7 @@ body {
    
 }
 
-#quote {
-   float: right;
-}
+/* main body of information */
 
 .container-who {
    display: flex;
@@ -114,4 +112,14 @@ body {
    width: 33%; 
    align-items: center;
    justify-content: center;
+}
+
+#info {
+   border-bottom: 2px solid #383838;
+}
+
+.about-us-info {
+   padding: 1rem;
+   font-size: 1.10 nrem;
+   align-self: center
 }
