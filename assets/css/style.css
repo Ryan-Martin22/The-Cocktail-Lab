@@ -250,6 +250,23 @@ hr {
 #email{
    border-bottom: 2px solid #383838;
 }
+/* map */
+
+#map-wrapper {
+
+   height: 300px;
+   margin-bottom: 107px;
+}
+
+#map {
+   height: 100%;
+   width: 100%;
+   border: none;
+}
+
+#map-align {
+   margin-top: 50px;
+}
 
 
  /* footer*/
