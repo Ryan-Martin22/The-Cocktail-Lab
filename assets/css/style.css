@@ -243,6 +243,14 @@ hr {
    padding-top: 50px;
 }
 
+#phone {
+   border-bottom: 2px solid #383838;
+}
+
+#email{
+   border-bottom: 2px solid #383838;
+}
+
 
  /* footer*/
 
