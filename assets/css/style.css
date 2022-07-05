@@ -189,7 +189,21 @@ hr {
    padding-top: 50px;
 }
 
-/* center images */
+/* gallery images */
+
+#gallery-drinks {
+   display: flex;
+   justify-content: space-around;
+   padding-top: 50px;
+}
+
+#gallery-heading {
+   text-align: center;
+   margin: 20px 0;
+   font-size: 280%;
+   padding-top: 40px;
+
+}
 
 * {
    box-sizing: border-box;
@@ -206,6 +220,7 @@ hr {
    padding: 5px;
    
  }
+
 
 
  /* footer*/
