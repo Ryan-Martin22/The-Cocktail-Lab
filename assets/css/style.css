@@ -168,10 +168,19 @@ hr {
    
 } 
 
+
 .container-drinks {
    display: flex;
    justify-content: space-around;
    padding-top: 50px;
+}
+
+#drinks-heading {
+   text-align: center;
+   margin: 20px 0;
+   font-size: 280%;
+   padding-top: 40px;
+
 }
 
 
