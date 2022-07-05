@@ -221,6 +221,27 @@ hr {
    
  }
 
+ /* contact */
+
+ #contact {
+   display: flex;
+   justify-content: space-around;
+   padding-top: 50px;
+}
+
+#contact-heading {
+   text-align: center;
+   margin: 20px 0;
+   font-size: 280%;
+   padding-top: 40px;
+}
+
+
+.container-contact {
+   display: flex;
+   justify-content: space-around;
+   padding-top: 50px;
+}
 
 
  /* footer*/
