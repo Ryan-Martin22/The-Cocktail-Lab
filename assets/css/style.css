@@ -189,9 +189,26 @@ hr {
    padding-top: 50px;
 }
 
+/* center images */
+
+* {
+   box-sizing: border-box;
+   
+ }
+ 
+ .row {
+   display: flex;
+ }
+ 
+ 
+ .column {
+   flex: 33.33%;
+   padding: 5px;
+   
+ }
 
 
-/* footer */
+ /* footer*/
 
 footer {
    height: 150px;
