@@ -453,12 +453,14 @@ footer {
    #gallery-drinks {
       width: 100%;
       text-align: center
-   }
+   } 
+
 
    #gallery {
       column-count: 3;
    }
 }
+
 
 @media screen and (max-width: 800px) {
    #gallery {
