@@ -384,6 +384,11 @@ footer {
    }
 
 
+   #gallery-drinks {
+      width: 100%;
+      text-align: center
+   }
+
    hr {
       display: none;
    }
@@ -440,6 +445,11 @@ footer {
       text-align: center;
    }
 
+   .container-ingredients {
+      width: 100%;
+      text-align: center;
+   }
+
    #gallery-drinks {
       width: 100%;
       text-align: center
@@ -447,5 +457,11 @@ footer {
 
    #gallery {
       column-count: 3;
+   }
+}
+
+@media screen and (max-width: 800px) {
+   #gallery {
+       column-count: 2;
    }
 }
