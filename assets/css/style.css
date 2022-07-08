@@ -1,68 +1,69 @@
-
 @import url('https://fonts.googleapis.com/css2?family=Lato&family=Playfair+Display:wght@500&display=swap');
 
 * {
-    margin: 0;
-    padding: 0;
-    border: none;
+   margin: 0;
+   padding: 0;
+   border: none;
 }
 
 
 
 body {
-    font-family: lato, sans-serif;
-    font-weight: 300;
-    color: #383838;
-    background-color: rgb(250, 238, 223);
-}  
+   font-family: lato, sans-serif;
+   font-weight: 300;
+   color: #383838;
+   background-color: rgb(250, 238, 223);
+}
 
 /* heading and logo */
- h1 , h2 {
-    font-family: playfair display, sans-serif;
-    text-transform: uppercase;
-    letter-spacing: 4px;
-    color: #282828;
- }
+h1,
+h2 {
+   font-family: playfair display, sans-serif;
+   text-transform: uppercase;
+   letter-spacing: 4px;
+   color: #282828;
+}
 
- #company {
-    float:left;
-    size: 280%;
-    margin-left: 35px;
- }
+#company {
+   float: left;
+   size: 280%;
+   margin-left: 35px;
+}
 
 
 /* navigation bar */
 
- #navbar {
-    font-size: 110%;
-    letter-spacing: 4px;
-    font-weight: 500;
- } 
-
- #company , #navbar {
-      line-height: 80px;
+#navbar {
+   font-size: 110%;
+   letter-spacing: 4px;
+   font-weight: 500;
 }
 
- #navbar li {
-    float: right;
-    list-style-type: none;
-    margin-right: 40px;
- }
+#company,
+#navbar {
+   line-height: 80px;
+}
 
- #navbar a {
-    text-decoration: none;
-    color: inherit;
- }
+#navbar li {
+   float: right;
+   list-style-type: none;
+   margin-right: 40px;
+}
+
+#navbar a {
+   text-decoration: none;
+   color: inherit;
+}
 
 #navbar a:hover {
-    border-bottom: 2px solid #383838;
+   border-bottom: 2px solid #383838;
 
-} 
+}
 
 
 .active {
-    border-bottom: 2px solid #383838;
-} 
+   border-bottom: 2px solid #383838;
+}
 
 /* hero image */
 
@@ -78,7 +79,7 @@ body {
    width: 100%;
    background: url('../images/old-fashioned.avif') no-repeat center center;
    background-size: cover;
-   
+
 }
 
 /* main body of information */
@@ -87,7 +88,7 @@ body {
 
 #cocktail-lab {
    height: 500px;
-   
+
 
 
 }
@@ -96,7 +97,7 @@ body {
    padding-top: 30px;
    width: 33%;
    float: left;
-   
+
 }
 
 #right-about {
@@ -106,9 +107,9 @@ body {
 }
 
 #center-about {
-padding-top: 30px;
-width: 33%;
-margin: 0 auto; 
+   padding-top: 30px;
+   width: 33%;
+   margin: 0 auto;
 
 }
 
@@ -146,7 +147,7 @@ hr {
 #welcome {
    text-align: center;
    margin: 20px 0;
-   font-size: 280%; 
+   font-size: 280%;
 
 }
 
@@ -162,11 +163,11 @@ hr {
 }
 
 #circle-cover-bg {
-   background: url('../images/drinks.jpeg') ;
+   background: url('../images/drinks.jpeg');
    height: 100%;
    border-radius: 50%;
-   
-} 
+
+}
 
 
 .container-drinks {
@@ -207,23 +208,23 @@ hr {
 
 * {
    box-sizing: border-box;
-   
- }
- 
- .row {
+
+}
+
+.row {
    display: flex;
- }
- 
- 
- .column {
+}
+
+
+.column {
    flex: 33.33%;
    padding: 5px;
-   
- }
 
- /* contact */
+}
 
- #contact {
+/* contact */
+
+#contact {
    display: flex;
    justify-content: space-around;
    padding-top: 50px;
@@ -247,9 +248,10 @@ hr {
    border-bottom: 2px solid #383838;
 }
 
-#email{
+#email {
    border-bottom: 2px solid #383838;
 }
+
 /* map */
 
 #map-wrapper {
@@ -285,15 +287,16 @@ hr {
    padding-top: 40px;
 }
 
- 
- 
- .container-subscribe {
+
+
+.container-subscribe {
    padding: 20px;
    background-color: rgb(250, 238, 223);
- }
- 
- 
- input[type=text], input[type=submit] {
+}
+
+
+input[type=text],
+input[type=submit] {
    width: 100%;
    padding: 12px;
    margin: 8px 0;
@@ -301,78 +304,148 @@ hr {
    justify-content: center;
    border: 1px solid #ccc;
    box-sizing: border-box;
- }
- 
- 
- input[type=checkbox] {
-   margin-top: 16px;
- }
- 
+}
 
- input[type=submit] {
+
+input[type=checkbox] {
+   margin-top: 16px;
+}
+
+
+input[type=submit] {
    background-color: #282828;
    color: white;
    border: none;
- }
- 
- input[type=submit]:hover {
+}
+
+input[type=submit]:hover {
    opacity: 0.8;
- }
+}
 
 
 
- /* footer*/
+/* footer*/
 
 footer {
    height: 150px;
 }
 
 .social-networks {
-text-align: center;
+   text-align: center;
 }
 
 .social-networks li {
-display: inline;
+   display: inline;
 }
 
 .social-networks i {
-font-size: 160%;
-max-width: 1%;
-padding: 5%;
-color: #3a3a3a; 
+   font-size: 160%;
+   max-width: 1%;
+   padding: 5%;
+   color: #3a3a3a;
 }
 
 /* media queries */
 
-/*for larger to medium screen sizes from 1200px wide and down */  
+/*for larger to medium screen sizes from 1200px wide and down */
 
 
 @media screen and (max-width: 1200px) {
    #cocktail-lab {
-       width: 65%;
-       height: 1200px;
-       margin: o auto;
+      width: 65%;
+      height: 1200px;
+      margin: o auto;
    }
 
    #welcome {
-       padding: 30px 0;
-       margin: 0;
+      padding: 30px 0;
+      margin: 0;
    }
 
-   #left-about, #right-about {
-       width: 100%;
-       float: left;
-       padding: 0;
+   #left-about,
+   #right-about {
+      width: 100%;
+      float: left;
+      padding: 0;
    }
 
    #center-about {
-       clear: both;
-       width: 100%;
-       float: left;
-       padding: 0;
+      clear: both;
+      width: 100%;
+      float: left;
+      padding: 0;
    }
 
+   .container-drinks,
+   .container-ingredients {
+      width: 100%;
+      float: left;
+      padding: 0;
+   }
+
+
    hr {
-       display: none;
+      display: none;
+   }
+}
+
+
+/* for media screen sizes 950px wide and down */
+
+@media screen and (max-width:950px) {
+
+   #navbar {
+      clear: left;
+      float: left;
+      margin-left: 30px;
+      margin-bottom: 20px;
+      line-height: 25px;
+
+   }
+
+   #cover-text {
+      left: 0;
+   }
+
+   #cocktail-lab {
+      width: 90%;
+      height: 1200px;
+      margin: 0 auto;
+   }
+
+   .left-about-heading,
+   .right-about-heading {
+      width: inherit;
+   }
+
+   .left-about-heading h2,
+   .right-about-heading h2 {
+      width: 100%;
+      text-align: center;
+   }
+
+   .left-about-heading p,
+   .right-about-heading p {
+      text-align: center;
+      padding: 0 20px;
+   }
+
+   .container-drinks {
+      width: 100%;
+      text-align: center;
+   }
+
+   .container-ingredients { 
+      width: 100%;
+      text-align: center;
+   }
+
+   #gallery-drinks {
+      width: 100%;
+      text-align: center
+   }
+
+   #gallery {
+      column-count: 3;
    }
 }
