@@ -456,6 +456,21 @@ footer {
    } 
 
 
+   #our-drinks {
+      width: inherit;
+   }
+
+   .drinks-heading {
+      width: 100%;
+      text-align: center;
+   }
+
+   .container-ingredients ul {
+      text-align: center;
+      padding: 0 20px;
+   }
+
+
    #gallery {
       column-count: 3;
    }
