@@ -60,7 +60,12 @@ The Cocktail Lab is a Dublin based company that educates and entertains in the s
 * The Footer section includes links to relevant social media sites. The links will open in a new tab to allow easy navigtion for the user. 
 * The footer is an essential part of the page as it allows to user to keep connected to The Cocktail Lab through various different Social Media platforms. 
 
-![Footer image](assets/images/Screenshot8.png)
+![Footer image](assets/images/Screenshot8.png) 
+
+## Future Features 
+
+* In the future The Cocktail Lab would like in implement new features for the website including a video section where users can physically see our Mixoligists prepare our signature cocktails. 
+* Another feature that The Cocktail Lab hopes to implement in the future is an online booking system to make it easier for the user to book masterclasses. 
 
 
 
