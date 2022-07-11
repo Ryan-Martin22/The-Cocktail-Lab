@@ -440,10 +440,6 @@ footer {
       text-align: center;
    }
 
-   .container-ingredients { 
-      width: 100%;
-      text-align: center;
-   }
 
    .container-ingredients {
       width: 100%;
@@ -465,10 +461,8 @@ footer {
       text-align: center;
    }
 
-   .container-ingredients ul {
-      text-align: center;
-      padding: 0 20px;
-   }
+ 
+
 
 
    #gallery {
@@ -481,4 +475,15 @@ footer {
    #gallery {
        column-count: 2;
    }
+
+   .container-ingredients {
+      flex-direction: column;
+   } 
+
+   .container-contact {
+      flex-direction: column;
+   }
+
+
+
 }
