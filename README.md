@@ -47,6 +47,15 @@ The Cocktail Lab is a Dublin based company that educates and entertains in the s
 
 ![Contact Us Image](assets/images/Screenshot6.png)
 
+### Sign-Up
+
+* This section feature a form where the user can sign up to a weekly newsletter. 
+* The purpose of the newsletter is to ensure the user gets the most up to date news on relating to The Cocktail lab, includoing promotions and offers. 
+* the form is intentionally basic in nature as to encourgae the user to subscribe to the newsletter. 
+
+![Sign-Up Image](assets/images/Screenshot7.png)
+
+
 
 
 
