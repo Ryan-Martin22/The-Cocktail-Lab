@@ -53,7 +53,14 @@ The Cocktail Lab is a Dublin based company that educates and entertains in the s
 * The purpose of the newsletter is to ensure the user gets the most up to date news on relating to The Cocktail lab, includoing promotions and offers. 
 * the form is intentionally basic in nature as to encourgae the user to subscribe to the newsletter. 
 
-![Sign-Up Image](assets/images/Screenshot7.png)
+![Sign-Up Image](assets/images/Screenshot7.png)  
+
+### Footer
+
+* The Footer section includes links to relevant social media sites. The links will open in a new tab to allow easy navigtion for the user. 
+* The footer is an essential part of the page as it allows to user to keep connected to The Cocktail Lab through various different Social Media platforms. 
+
+![Footer image](assets/images/Screenshot8.png)
 
 
 
