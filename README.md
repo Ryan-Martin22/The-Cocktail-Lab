@@ -33,6 +33,13 @@ The Cocktail Lab is a Dublin based company that educates and entertains in the s
 
 ![About Us image](assets/images/Screenshot3.png)
 
+### Gallery 
+
+* The Gallery section features a montage of photos from The Cocktail Lab Masterclasses. 
+* Each photo is relevant in telling its own story to the user and the photos have been specially selected to go with the colour palette of the website. 
+
+![Gallery Image](assets/images/Screenshot5.png)
+
 
 
 
