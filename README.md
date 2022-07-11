@@ -71,20 +71,33 @@ The Cocktail Lab is a Dublin based company that educates and entertains in the s
 
 ## User Stories 
 
-* First Time Visitor Goals
-1. As a First Time Visitor, i want to understand the main purpose of the website. 
-2. As a First Time Visitor, i want to know what the company does and is it what i am looking for. 
-3.  As a First Time Visitor,  want to be able to easily navigate to the section of the webpage i am most interested in. 
-4.  As a First Time Visitor, i want to be able to easily locate the companys social media links to find more information if needed. 
+1. First Time Visitor Goals
+* As a First Time Visitor, i want to understand the main purpose of the website. 
+* As a First Time Visitor, i want to know what the company does and is it what i am looking for. 
+* As a First Time Visitor,  want to be able to easily navigate to the section of the webpage i am most interested in. 
+*  As a First Time Visitor, i want to be able to easily locate the companys social media links to find more information if needed. 
 
-* Returning Visitor Goals 
-1. As a Returning Visitor, i want to find information that provides contact details and the loaction of the company. 
-2. As a Returning Visitor, i want to find any updates on the service the company provides. 
-3. As a Returning Visitor, i want to view any media the website has. 
+2. Returning Visitor Goals 
+* As a Returning Visitor, i want to find information that provides contact details and the loaction of the company. 
+* As a Returning Visitor, i want to find any updates on the service the company provides. 
+* As a Returning Visitor, i want to view any media the website has. 
 
-* Frequent User Goals
-1. As a Frequent Visitor, i want to be able to sign up to a news letter to ensure i get up to date information on events and promotions. 
-2. As a frequent Visitor, I want to be able to see if any new products or recipes have been added to the webpage. 
+3. Frequent User Goals
+* As a Frequent Visitor, i want to be able to sign up to a news letter to ensure i get up to date information on events and promotions. 
+* As a frequent Visitor, I want to be able to see if any new products or recipes have been added to the webpage. 
+
+## Design 
+
+* Colour Scheme
+  - The main colours used for The Cocktail Lab website where a shade of cream and dark grey, this invites warmth for the user when looking atbthe page. 
+
+* Typography
+  - The font used for the headings was Playfair Display and for paragraph content it was Lato. Sans Serif was used as a fallback in case of the Google Fonts link not working. Playfair was used to ensure a level of sophistication and attractivness. 
+
+* Imagery
+    - Imagery is essential. The landing page image is designed to be eye catching and illict and element of desire for a cocktail, thus ensuring the user stays engages with the website. 
+    - The colour profile of the images is warm to ensure it goes with the overall colour palette of the webpage
+
 
 
 
