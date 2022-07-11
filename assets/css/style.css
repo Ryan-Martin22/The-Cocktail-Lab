@@ -449,7 +449,7 @@ footer {
    #gallery-drinks {
       width: 100%;
       text-align: center
-   } 
+   }
 
 
    #our-drinks {
@@ -461,29 +461,24 @@ footer {
       text-align: center;
    }
 
- 
-
-
 
    #gallery {
-      column-count: 3;
+      column-count: 2;
    }
 }
 
 
 @media screen and (max-width: 800px) {
    #gallery {
-       column-count: 2;
+      column-count: 2;
    }
 
    .container-ingredients {
       flex-direction: column;
-   } 
+   }
 
    .container-contact {
       flex-direction: column;
    }
-
-
 
 }
