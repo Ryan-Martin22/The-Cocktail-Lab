@@ -45,7 +45,7 @@ The Cocktail Lab is a Dublin based company that educates and entertains in the s
 * This section features all the contact information a user would need to get in contact with The Cocktail lab including opening times, address and contact infotmation such as email and phone number. 
 * This section also features a map where the user can find the location of the Cocktail Lab. 
 
-![Contact Us Image]()
+![Contact Us Image](assets/images/Screenshot6.png)
 
 
 
