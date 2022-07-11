@@ -16,7 +16,7 @@ The Cocktail Lab is a Dublin based company that educates and entertains in the s
 * The Navigation Bar features at the top of the page and includes internal links to the Home, About Us, Gallery, Contact and Sign-Up sections of the website
 * This Section will allow the user to easily navigate to different areas of the webpage without having to scroll continously, saving time and enhancing the User Experience.  
 
-![Navigation Bar Image](assets/image/Screenshot1.png) 
+![Navigation Bar Image](../image/Screenshot1.png) 
 
 
 
