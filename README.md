@@ -133,6 +133,8 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate al
 
 On some mobile devices the Hero image and About Us image fail to display. 
 
+## Deployment
+
 ### GitHub Pages
 
 The project was deployed to GitHub Pages using the following steps...
