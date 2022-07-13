@@ -181,6 +181,7 @@ hr {
    margin: 20px 0;
    font-size: 280%;
    padding-top: 40px;
+   margin-top: 1rem 0;
 
 }
 
@@ -188,6 +189,25 @@ hr {
    display: flex;
    justify-content: space-around;
    padding-top: 50px;
+
+}
+
+#rum {
+   margin: 1rem o;
+   padding: 1rem 0;
+   border: 1rem 0;
+}
+
+#whiskey {
+   margin: 1rem o;
+   padding: 1rem 0;
+   border: 1rem 0;
+}
+
+#espresso {
+   margin: 1rem o;
+   padding: 1rem 0;
+   border: 1rem 0;
 }
 
 /* gallery images */
@@ -365,8 +385,8 @@ footer {
    #left-about,
    #right-about {
       width: 100%;
-      float: left;
       padding: 0;
+      text-align: center
    }
 
    #center-about {
@@ -374,6 +394,19 @@ footer {
       width: 100%;
       float: left;
       padding: 0;
+      
+   }
+
+   .left-about-heading h2,
+   .right-about-heading h2 {
+      width: 100%;
+      text-align: center;
+   }
+
+   .left-about-heading p,
+   .right-about-heading p {
+      text-align: center;
+      padding: 0 20px;
    }
 
    .container-drinks,
@@ -381,6 +414,7 @@ footer {
       width: 100%;
       float: left;
       padding: 0;
+      text-align: center;
    }
 
 
@@ -479,6 +513,31 @@ footer {
 
    .container-contact {
       flex-direction: column;
+      text-align: center;
+   }
+
+   .container-contact h2 {
+      margin: 1rem o;
+      padding: 1rem 0;
+      border: 1rem 0;
+   }
+
+   #rum {
+      margin: 1rem o;
+      padding: 1rem 0;
+      border: 1rem 0;
+   }
+   
+   #whiskey {
+      margin: 1rem o;
+      padding: 1rem 0;
+      border: 1rem 0;
+   }
+   
+   #espresso {
+      margin: 1rem o;
+      padding: 1rem 0;
+      border: 1rem 0;
    }
 
 }
