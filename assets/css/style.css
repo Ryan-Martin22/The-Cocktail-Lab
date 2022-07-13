@@ -194,19 +194,19 @@ hr {
 }
 
 #rum {
-   margin: 1rem o;
+   margin: 1rem 0;
    padding: 1rem 0;
    border: 1rem 0;
 }
 
 #whiskey {
-   margin: 1rem o;
+   margin: 1rem 0;
    padding: 1rem 0;
    border: 1rem 0;
 }
 
 #espresso {
-   margin: 1rem o;
+   margin: 1rem 0;
    padding: 1rem 0;
    border: 1rem 0;
 }
@@ -375,7 +375,7 @@ footer {
    #cocktail-lab {
       width: 65%;
       height: 1200px;
-      margin: o auto;
+      margin: 0 auto;
       text-align: center;
    }
 
@@ -519,25 +519,25 @@ footer {
    }
 
    .container-contact h2 {
-      margin: 1rem o;
+      margin: 1rem 0;
       padding: 1rem 0;
       border: 1rem 0;
    }
 
    #rum {
-      margin: 1rem o;
+      margin: 1rem 0;
       padding: 1rem 0;
       border: 1rem 0;
    }
    
    #whiskey {
-      margin: 1rem o;
+      margin: 1rem 0;
       padding: 1rem 0;
       border: 1rem 0;
    }
    
    #espresso {
-      margin: 1rem o;
+      margin: 1rem 0;
       padding: 1rem 0;
       border: 1rem 0;
    }
