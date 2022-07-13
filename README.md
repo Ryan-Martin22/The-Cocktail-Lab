@@ -129,6 +129,11 @@ The Cocktail Lab is a Dublin based company that educates and entertains in the s
 The W3C Markup Validator and W3C CSS Validator Services were used to validate all aspects of the project. 
 
 
+## Bugs 
+
+On some mobile devices the Hero image and About Us image fail to display. 
+
+
 
 
 
