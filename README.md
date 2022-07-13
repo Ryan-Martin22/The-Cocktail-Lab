@@ -3,6 +3,8 @@
 
 * DISCLAIMER: The Cocktail lab is a fictional company. This wedbsite is for the developers portfolio and for the competition of the Code Institute milestone project 1. 
 
+![Mockup image](assets/images/Screenshot9.png)
+
 ## Overview 
 
 The Cocktail Lab is a Dublin based company that educates and entertains in the skill of cocktail making. Located in the heart of Dublin, The Cocktail Lab hosts Masterclasses where groups or individuals can learn all the skills needed to be a Mixoligist. Our site is targeted towards either individuals who are looking to get in the Mixology industry or anyone that enjoys making cocktails. The Cocktail Lab is useful in upskilling and/or providing and entertaing experience for individuals or groups. 

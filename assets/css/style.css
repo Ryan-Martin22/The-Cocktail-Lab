@@ -65,6 +65,7 @@ h2 {
    border-bottom: 2px solid #383838;
 }
 
+
 /* hero image */
 
 
@@ -163,7 +164,7 @@ hr {
 }
 
 #circle-cover-bg {
-   background: url('../images/drinks.jpeg');
+   background: url('../images/drinks-min.jpeg');
    height: 100%;
    border-radius: 50%;
 
@@ -375,6 +376,7 @@ footer {
       width: 65%;
       height: 1200px;
       margin: o auto;
+      text-align: center;
    }
 
    #welcome {
