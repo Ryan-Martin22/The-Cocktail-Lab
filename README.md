@@ -98,7 +98,30 @@ The Cocktail Lab is a Dublin based company that educates and entertains in the s
 
 * Imagery
     - Imagery is essential. The landing page image is designed to be eye catching and illict and element of desire for a cocktail, thus ensuring the user stays engages with the website. 
-    - The colour profile of the images is warm to ensure it goes with the overall colour palette of the webpage
+    - The colour profile of the images is warm to ensure it goes with the overall colour palette of the webpage 
+
+## Technologies Used 
+
+### Languages Used 
+
+* HtML5
+* CSS 
+
+### Frameworks, Libraries and Programs Used 
+
+1. Bootstrap
+   - Bootstrap was used to assist with the responsiveness and styling of the website.
+
+2.  Google Fonts 
+    - Google fonts were used to import the 'Titillium Web' font into the style.css file which is used on all pages throughout the project.
+
+3. Font Awesome 
+    - Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
+
+4. Pexels 
+     - Pexels was used to get the stock photos that are visible throughout the project.     
+
+
 
 
 
