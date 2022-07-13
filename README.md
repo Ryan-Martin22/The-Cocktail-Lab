@@ -119,7 +119,15 @@ The Cocktail Lab is a Dublin based company that educates and entertains in the s
     - Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
 
 4. Pexels 
-     - Pexels was used to get the stock photos that are visible throughout the project.     
+     - Pexels was used to get the stock photos that are visible throughout the project.   
+
+5. GitHub 
+      - GitHub is used to store the projects code after being pushed from Git.
+
+## Testing 
+
+The W3C Markup Validator and W3C CSS Validator Services were used to validate all aspects of the project. 
+
 
 
 
