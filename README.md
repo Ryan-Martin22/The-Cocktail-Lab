@@ -192,6 +192,22 @@ The project was deployed to GitHub Pages using the following steps...
 5. The page will automatically refresh.
 6. Scroll back down through the page to locate the now published site [link](https://github.com) in the "GitHub Pages" section.
 
+## Credits 
+
+### Code
+* W3Schools.com How To section greatly assited in the code for the Form ection of webpage. 
+* Code Institue "Love Running" project and Code Institute "Coders Coffeehouse" project provided assistance in assembling this webpage. 
+
+### Content
+* All content was written by the developer. 
+
+### Media
+* All images were got from Pexels, link of which is in the Media Elements of HTML Essentials module. 
+
+### Acknowledgements
+* My Mentor for the continuous feedback and invaluable help i recieved throughout the duration of my project. 
+* My peers on Slack for assistance on all queries i had. 
+
 
 
 
