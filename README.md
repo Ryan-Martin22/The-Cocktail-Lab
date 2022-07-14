@@ -126,7 +126,31 @@ The Cocktail Lab is a Dublin based company that educates and entertains in the s
 
 ## Testing 
 
-The W3C Markup Validator and W3C CSS Validator Services were used to validate all aspects of the project. 
+* The W3C Markup Validator and W3C CSS Validator Services were used to validate all aspects of the project. 
+
+* Lighthouse was also used to test the performance of the website. 
+
+## Testing User Stories from User Experience (UX) Section 
+
+1. First Time Visitor Goals
+
+A. As a First Time Visitor, i want to understand the main purpose of the website.
+
+* Upon entering the site, users are automatically greeted with a clean and easily readable navigation bar to go to the page of their choice. It was a single scroll website so every page was easy to locate. 
+* The Hero Image immediately caught my eye and the colours gave a sense of warmth.  
+
+B. As a First Time Visitor, i want to know what the company does and is it what i am looking for.
+* Upon first entering the site, it is clear what the pmain purpose of the company and the website is. The visuals and About Us section make it very clear.
+* The information given in the About Us section was highly informative and easy to understand.
+
+
+C.  As a First Time Visitor,  want to be able to easily navigate to the section of the webpage i am most interested in.
+* Upon entering the site, the navigation bar made it very easy to quickly navigate to the exact page in which i was looking. 
+* Being a soingle scroll page made it easy to seamlessly scroll through each differnt part of the page.  
+
+
+D.  As a First Time Visitor, i want to be able to easily locate the companys social media links to find more information if needed. 
+* Upon visiting the site, it was very easy to locate the social media links as they where located in the footer which is common practice for a lot of websites. The icons were easily recognisable and the links work efficiently. 
 
 
 ## Bugs 
