@@ -80,7 +80,7 @@ The Cocktail Lab is a Dublin based company that educates and entertains in the s
 *  As a First Time Visitor, i want to be able to easily locate the companys social media links to find more information if needed. 
 
 2. Returning Visitor Goals 
-* As a Returning Visitor, i want to find information that provides contact details and the loaction of the company. 
+* As a Returning Visitor, i want to find information that provides contact details and the location of the company. 
 * As a Returning Visitor, i want to find any updates on the service the company provides. 
 * As a Returning Visitor, i want to view any media the website has. 
 
@@ -104,7 +104,7 @@ The Cocktail Lab is a Dublin based company that educates and entertains in the s
 
 ### Languages Used 
 
-* HtML5
+* HTML5
 * CSS 
 
 ### Frameworks, Libraries and Programs Used 
@@ -150,7 +150,28 @@ C.  As a First Time Visitor,  want to be able to easily navigate to the section 
 
 
 D.  As a First Time Visitor, i want to be able to easily locate the companys social media links to find more information if needed. 
-* Upon visiting the site, it was very easy to locate the social media links as they where located in the footer which is common practice for a lot of websites. The icons were easily recognisable and the links work efficiently. 
+* Upon visiting the site, it was very easy to locate the social media links as they where located in the footer which is common practice for a lot of websites. The icons were easily recognisable and the links work efficiently.
+
+2. Returning Visitor Goals 
+
+A. As a Returning Visitor, i want to find information that provides contact details and the location of the company. 
+* Upon returning to the site, it was extremely easy and sccesible to see the Contact Us section in the navigation bar. When i clicked the link i was taken to the part of the page that had all the contacyt information i was looking for.
+
+B. As a Returning Visitor, i want to find any updates on the service the company provides. 
+* As a returning visitor, it was easy to locate the signature drinks section which had a variety of interchangeable drinks.
+
+C.  As a Returning Visitor, i want to view any media the website has. 
+* As a returning visitor, it was easy to locate the media on the webpage to the Gallery link on the navigation bar. This took me to the section which had photos which were related to the webpage and its activities. 
+
+
+3. Frequent User Goals
+
+A. As a Frequent Visitor, i want to be able to sign up to a news letter to ensure i get up to date information on events and promotions. 
+* As a frequent visitor, it was essential to have a steady stream of information, the sign-up section provided this as i could sign up to a newsletter that gave weekly promotions and information on all things related to the company.
+
+B. As a frequent Visitor, I want to be able to see if any new products or recipes have been added to the webpage. 
+* As a frequent visitor, the newsletter enabled me to see all new recipes and products and also the signature drinks page gets updated to have a constant flow of recipes to try. 
+
 
 
 ## Bugs 
