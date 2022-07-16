@@ -129,9 +129,11 @@ The Cocktail Lab is a Dublin based company that educates and entertains in the s
 
 * Lighthouse was also used to test the performance of the website. ![Lighthouse](assets/images/Screenshot11.png)
 
+* WAVE Accessibility Evaluation Tool was used to test accessibility. ![Accessibility](assets/images/Screenshot15.png)
+
 * To test the responsiveness of the website i utilised Chrome DevTools to inspect the wensite at differnet screen sizes. I also tested on my mobile and mobile devices of family and freinds. 
 
-* WAVE Accessibility Evaluation Tool was used to test accessibility. ![Accessibility](assets/images/Screenshot15.png)
+* Interactivity testing was done by clicking all links on the website and ensured they were functiadded oning correctly.
 
 
 
