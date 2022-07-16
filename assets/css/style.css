@@ -6,8 +6,6 @@
    border: none;
 }
 
-
-
 body {
    font-family: lato, sans-serif;
    font-weight: 300;
@@ -60,14 +58,11 @@ h2 {
 
 }
 
-
 .active {
    border-bottom: 2px solid #383838;
 }
 
-
 /* hero image */
-
 
 #fashioned-outer {
    height: 650px;
@@ -85,20 +80,14 @@ h2 {
 
 /* main body of information */
 
-
-
 #cocktail-lab {
    height: 500px;
-
-
-
 }
 
 #left-about {
    padding-top: 30px;
    width: 33%;
    float: left;
-
 }
 
 #right-about {
@@ -111,7 +100,6 @@ h2 {
    padding-top: 30px;
    width: 33%;
    margin: 0 auto;
-
 }
 
 hr {
@@ -149,7 +137,6 @@ hr {
    text-align: center;
    margin: 20px 0;
    font-size: 280%;
-
 }
 
 #circle-container {
@@ -167,9 +154,7 @@ hr {
    background: url('../images/drinks-min.jpeg');
    height: 100%;
    border-radius: 50%;
-
 }
-
 
 .container-drinks {
    display: flex;
@@ -183,14 +168,12 @@ hr {
    font-size: 280%;
    padding-top: 40px;
    margin-top: 10px;
-
 }
 
 .container-ingredients {
    display: flex;
    justify-content: space-around;
    padding-top: 50px;
-
 }
 
 #rum {
@@ -224,23 +207,19 @@ hr {
    margin: 20px 0;
    font-size: 280%;
    padding-top: 40px;
-
 }
 
 * {
    box-sizing: border-box;
-
 }
 
 .row {
    display: flex;
 }
 
-
 .column {
    flex: 33.33%;
    padding: 5px;
-
 }
 
 /* contact */
@@ -257,7 +236,6 @@ hr {
    font-size: 280%;
    padding-top: 40px;
 }
-
 
 .container-contact {
    display: flex;
@@ -298,7 +276,6 @@ hr {
 
 /* Subscribe */
 
-
 #subscribe {
    display: flex;
    justify-content: space-around;
@@ -312,13 +289,10 @@ hr {
    padding-top: 40px;
 }
 
-
-
 .container-subscribe {
    padding-top: 10px;
    background-color: rgb(250, 238, 223);
 }
-
 
 input[type=text],
 input[type=submit] {
@@ -331,11 +305,9 @@ input[type=submit] {
    box-sizing: border-box;
 }
 
-
 input[type=checkbox] {
    margin-top: 16px;
 }
-
 
 input[type=submit] {
    background-color: #282828;
@@ -350,9 +322,6 @@ input[type=submit]:hover {
 form {
    padding: 10px;
 }
-   
-
-
 
 /* footer*/
 
@@ -379,7 +348,6 @@ footer {
 
 /*for larger to medium screen sizes from 1200px wide and down */
 
-
 @media screen and (max-width: 1200px) {
    #cocktail-lab {
       width: 65%;
@@ -405,7 +373,6 @@ footer {
       width: 100%;
       float: left;
       padding: 0;
-      
    }
 
    .left-about-heading h2,
@@ -428,7 +395,6 @@ footer {
       text-align: center;
    }
 
-
    #gallery-drinks {
       width: 100%;
       text-align: center
@@ -437,10 +403,7 @@ footer {
    hr {
       display: none;
    }
-
-   
 }
-
 
 /* for media screen sizes 950px wide and down */
 
@@ -452,7 +415,6 @@ footer {
       margin-left: 30px;
       margin-bottom: 20px;
       line-height: 25px;
-
    }
 
    #cover-text {
@@ -498,7 +460,6 @@ footer {
       text-align: center
    }
 
-
    #our-drinks {
       width: inherit;
    }
@@ -508,12 +469,10 @@ footer {
       text-align: center;
    }
 
-
    #gallery {
       column-count: 2;
    }
 }
-
 
 @media screen and (max-width: 800px) {
    #gallery {
@@ -540,21 +499,18 @@ footer {
       padding: 1rem 0;
       border: 1rem 0;
    }
-   
+
    #whiskey {
       margin: 1rem 0;
       padding: 1rem 0;
       border: 1rem 0;
    }
-   
+
    #espresso {
       margin: 1rem 0;
       padding: 1rem 0;
       border: 1rem 0;
    }
-
-   
-
 }
 
 @media screen and (max-width: 680px) {
@@ -564,8 +520,8 @@ footer {
       font-weight: 500;
       display: flex;
       flex-direction: column-reverse;
-      
-}
+
+   }
 }
 
 @media screen and (max-width: 350px) {
@@ -573,6 +529,5 @@ footer {
       float: left;
       font-size: 100%;
       margin-left: 35px;
-  }
+   }
 }
-
