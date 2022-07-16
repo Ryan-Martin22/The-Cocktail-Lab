@@ -127,7 +127,11 @@ The Cocktail Lab is a Dublin based company that educates and entertains in the s
 The W3C CSS Validator was used to validate the CSS. 
 ![CSS Validation](assets/images/Screenshot13.png)
 
-* Lighthouse was also used to test the performance of the website. 
+* Lighthouse was also used to test the performance of the website. ![Lighthouse](assets/images/Screenshot11.png)
+
+* To test the responsiveness of the website i utilised Chrome DevTools to inspect the wensite at differnet screen sizes. I also tested on my mobile and mobile devices of family and freinds. 
+
+* Lighthouse was used to test accessibility and returened a score of 100. 
 
 
 
@@ -137,7 +141,7 @@ The W3C CSS Validator was used to validate the CSS.
 
 A. As a First Time Visitor, i want to understand the main purpose of the website.
 
-* Upon entering the site, users are automatically greeted with a clean and easily readable navigation bar to go to the page of their choice. It was a single scroll website so every page was easy to locate. 
+* Upon entering the site, users are automatically greeted with a clean and easily readable navigation bar to go to the section of their choice. It was a single scroll website so every page was easy to locate. 
 * The Hero Image immediately caught my eye and the colours gave a sense of warmth.  
 
 B. As a First Time Visitor, i want to know what the company does and is it what i am looking for.
