@@ -315,7 +315,7 @@ hr {
 
 
 .container-subscribe {
-   padding: 20px;
+   padding-top: 10px;
    background-color: rgb(250, 238, 223);
 }
 
@@ -324,7 +324,7 @@ input[type=text],
 input[type=submit] {
    width: 100%;
    padding: 12px;
-   margin: 8px 0;
+   margin: 0;
    display: flex;
    justify-content: center;
    border: 1px solid #ccc;
@@ -348,8 +348,10 @@ input[type=submit]:hover {
 }
 
 form {
-   padding-left: 40px;
+   padding: 10px;
 }
+   
+
 
 
 /* footer*/
