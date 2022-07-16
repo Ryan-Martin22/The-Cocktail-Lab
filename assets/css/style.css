@@ -18,7 +18,7 @@ body {
 /* heading and logo */
 h1,
 h2 {
-   font-family: playfair display, sans-serif;
+   font-family: "playfair display", sans-serif;
    text-transform: uppercase;
    letter-spacing: 4px;
    color: #282828;
