@@ -1,7 +1,7 @@
 # The Cocktail Lab 
 # Milestone Project 1 - Static Front End Website 
 
-* DISCLAIMER: The Cocktail lab is a fictional company. This wedsite is for the developers portfolio and for the competition of the Code Institute milestone project 1. 
+* DISCLAIMER: The Cocktail Lab is a fictional company. This website is for the developers portfolio and for the competition of the Code Institute milestone project 1. 
 
 ![Mockup image](assets/images/Screenshot9.png)
 
@@ -44,7 +44,7 @@ The Cocktail Lab is a Dublin based company that educates and entertains in the s
 
 ### Contact Us 
 
-* This section features all the contact information a user would need to get in contact with The Cocktail lab including opening times, address and contact infotmation such as email and phone number. 
+* This section features all the contact information a user would need to get in contact with The Cocktail lab including opening times, address and contact information such as email and phone number. 
 * This section also features a map where the user can find the location of the Cocktail Lab. 
 
 ![Contact Us Image](assets/images/Screenshot6.png)
@@ -52,7 +52,7 @@ The Cocktail Lab is a Dublin based company that educates and entertains in the s
 ### Sign-Up
 
 * This section feature a form where the user can sign up to a weekly newsletter. 
-* The purpose of the newsletter is to ensure the user gets the most up to date news on relating to The Cocktail lab, includoing promotions and offers. 
+* The purpose of the newsletter is to ensure the user gets the most up to date news on relating to The Cocktail lab, including promotions and offers. 
 * the form is intentionally basic in nature as to encourgae the user to subscribe to the newsletter. 
 
 ![Sign-Up Image](assets/images/Screenshot7.png)  
@@ -76,7 +76,7 @@ The Cocktail Lab is a Dublin based company that educates and entertains in the s
 1. First Time Visitor Goals
 * As a First Time Visitor, i want to understand the main purpose of the website. 
 * As a First Time Visitor, i want to know what the company does and is it what i am looking for. 
-* As a First Time Visitor,  want to be able to easily navigate to the section of the webpage i am most interested in. 
+* As a First Time Visitor, i want to be able to easily navigate to the section of the webpage i am most interested in. 
 *  As a First Time Visitor, i want to be able to easily locate the companys social media links to find more information if needed. 
 
 2. Returning Visitor Goals 
@@ -84,7 +84,7 @@ The Cocktail Lab is a Dublin based company that educates and entertains in the s
 * As a Returning Visitor, i want to find any updates on the service the company provides. 
 * As a Returning Visitor, i want to view any media the website has. 
 
-3. Frequent User Goals
+3. Frequent Visitor Goals
 * As a Frequent Visitor, i want to be able to sign up to a news letter to ensure i get up to date information on events and promotions. 
 * As a frequent Visitor, I want to be able to see if any new products or recipes have been added to the webpage. 
 
@@ -98,7 +98,7 @@ The Cocktail Lab is a Dublin based company that educates and entertains in the s
   - The font used for the headings was Playfair Display and for paragraph content it was Lato. Sans Serif was used as a fallback in case of the Google Fonts link not working. Playfair was used to ensure a level of sophistication and attractivness. [Google Fonts](https://fonts.google.com/specimen/Playfair+Display+SC)
 
 * Imagery
-    - Imagery is essential. The landing page image is designed to be eye catching and illict and element of desire for a cocktail, thus ensuring the user stays engages with the website. 
+    - Imagery is essential. The landing page image is designed to be eye catching and promote and element of desire for a cocktail, thus ensuring the user stays engages with the website. 
     - The colour profile of the images is warm to ensure it goes with the overall colour palette of the webpage 
 
 ## Technologies Used 
@@ -111,7 +111,7 @@ The Cocktail Lab is a Dublin based company that educates and entertains in the s
 ### Frameworks, Libraries and Programs Used 
 
 1.  Google Fonts 
-    - Google fonts were used to import the 'Titillium Web' font into the style.css file which is used on all pages throughout the project.
+    - Google fonts were used to import the 'Playfair Display' and 'Lato' font into the style.css file which is used on all pages throughout the project.
 
 2. Font Awesome 
     - Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.  
@@ -131,9 +131,9 @@ The Cocktail Lab is a Dublin based company that educates and entertains in the s
 
 * WAVE Accessibility Evaluation Tool was used to test accessibility. ![Accessibility](assets/images/Screenshot15.png)
 
-* To test the responsiveness of the website i utilised Chrome DevTools to inspect the wensite at differnet screen sizes. I also tested on my mobile and mobile devices of family and freinds. 
+* To test the responsiveness of the website i utilised Chrome DevTools to inspect the website at different screen sizes. I also tested on my mobile and mobile devices of family and freinds. 
 
-* Interactivity testing was done by clicking all links on the website and ensured they were functiadded oning correctly.
+* Interactivity testing was done by clicking all links on the website and ensured they were functioning correctly.
 
 
 
@@ -152,8 +152,8 @@ B. As a First Time Visitor, i want to know what the company does and is it what 
 
 
 C.  As a First Time Visitor,  want to be able to easily navigate to the section of the webpage i am most interested in.
-* Upon entering the site, the navigation bar made it very easy to quickly navigate to the exact page in which i was looking. 
-* Being a soingle scroll page made it easy to seamlessly scroll through each differnt part of the page.  
+* Upon entering the site, the navigation bar made it very easy to quickly navigate to the exact section in which i was looking. 
+* Being a single scroll page made it easy to seamlessly scroll through each differnt part of the page.  
 
 
 D.  As a First Time Visitor, i want to be able to easily locate the companys social media links to find more information if needed. 
@@ -162,7 +162,7 @@ D.  As a First Time Visitor, i want to be able to easily locate the companys soc
 2. Returning Visitor Goals 
 
 A. As a Returning Visitor, i want to find information that provides contact details and the location of the company. 
-* Upon returning to the site, it was extremely easy and sccesible to see the Contact Us section in the navigation bar. When i clicked the link i was taken to the part of the page that had all the contacyt information i was looking for.
+* Upon returning to the site, it was extremely easy and accessible to see the Contact Us section in the navigation bar. When i clicked the link i was taken to the part of the page that had all the contacyt information i was looking for.
 
 B. As a Returning Visitor, i want to find any updates on the service the company provides. 
 * As a returning visitor, it was easy to locate the signature drinks section which had a variety of interchangeable drinks.
