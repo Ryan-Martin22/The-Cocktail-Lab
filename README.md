@@ -91,10 +91,11 @@ The Cocktail Lab is a Dublin based company that educates and entertains in the s
 ## Design 
 
 * Colour Scheme
-  - The main colours used for The Cocktail Lab website where a shade of cream and dark grey, this invites warmth for the user when looking atbthe page. 
+  - The main colours used for The Cocktail Lab website where a shade of cream and dark grey, this invites warmth for the user when looking at the page. 
+  * The colours used were rgb(250, 238, 223), #383838
 
 * Typography
-  - The font used for the headings was Playfair Display and for paragraph content it was Lato. Sans Serif was used as a fallback in case of the Google Fonts link not working. Playfair was used to ensure a level of sophistication and attractivness. 
+  - The font used for the headings was Playfair Display and for paragraph content it was Lato. Sans Serif was used as a fallback in case of the Google Fonts link not working. Playfair was used to ensure a level of sophistication and attractivness. [Google Fonts](https://fonts.google.com/specimen/Playfair+Display+SC)
 
 * Imagery
     - Imagery is essential. The landing page image is designed to be eye catching and illict and element of desire for a cocktail, thus ensuring the user stays engages with the website. 
@@ -109,26 +110,26 @@ The Cocktail Lab is a Dublin based company that educates and entertains in the s
 
 ### Frameworks, Libraries and Programs Used 
 
-1. Bootstrap
-   - Bootstrap was used to assist with the responsiveness and styling of the website.
-
-2.  Google Fonts 
+1.  Google Fonts 
     - Google fonts were used to import the 'Titillium Web' font into the style.css file which is used on all pages throughout the project.
 
-3. Font Awesome 
-    - Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
+2. Font Awesome 
+    - Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.  
 
-4. Pexels 
-     - Pexels was used to get the stock photos that are visible throughout the project.   
-
-5. GitHub 
+3. GitHub 
       - GitHub is used to store the projects code after being pushed from Git.
 
 ## Testing 
 
-* The W3C Markup Validator and W3C CSS Validator Services were used to validate all aspects of the project. 
+* The W3C Markup Validator was used to validate the HTML. 
+![HTML Validation](assets/images/Screenshot14.png)]
+
+The W3C CSS Validator was used to validate the CSS. 
+![CSS Validation](assets/images/Screenshot13.png)
 
 * Lighthouse was also used to test the performance of the website. 
+
+
 
 ## Testing User Stories from User Experience (UX) Section 
 
@@ -171,12 +172,6 @@ A. As a Frequent Visitor, i want to be able to sign up to a news letter to ensur
 
 B. As a frequent Visitor, I want to be able to see if any new products or recipes have been added to the webpage. 
 * As a frequent visitor, the newsletter enabled me to see all new recipes and products and also the signature drinks page gets updated to have a constant flow of recipes to try. 
-
-
-
-## Bugs 
-
-On some mobile devices the Hero image and About Us image fail to display. 
 
 ## Deployment
 
